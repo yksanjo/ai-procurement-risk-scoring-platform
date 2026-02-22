@@ -1,10 +1,10 @@
-# AI Procurement Risk Scoring Platform
+# ai-procurement-risk-scoring-platform
 
-Score vendor and procurement risks using multi-source evidence.
+## Detailed Description
 
 ## Vertical
 
-ai
+## Problem Statement
 
 ## Production MVP Deliverables
 
